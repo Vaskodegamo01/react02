@@ -1,0 +1,9 @@
+#header {
+    background: #8c8b89;
+    padding: 20px;
+}
+#navigation li {
+    display: inline;
+    padding: 20px;
+    margin: 5px;
+}

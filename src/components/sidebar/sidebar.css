@@ -1,0 +1,11 @@
+#sidebar {
+    float: left;
+    width: 30%;
+    height: 80vh;
+    background: #a5b492;
+}
+
+#sidebar li {
+    padding: 5px;
+    margin: 5px;
+}
